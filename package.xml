@@ -9,13 +9,13 @@
  <lead>
   <name>Alexandre Mogère</name>
   <user>heristop</user>
-  <email>heristop(at)yahoo.fr</email>
+  <email/>
   <active>yes</active>
  </lead>
  <developer>
   <name>François Zaninotto</name>
   <user>fzaninotto</user>
-  <email>francois.zaninotto@symfony-project.com</email>
+  <email/>
   <active>yes</active>
  </developer>
  <date>2009-10-02</date>
